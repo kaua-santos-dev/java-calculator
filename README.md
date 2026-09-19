@@ -21,4 +21,4 @@ java -cp src Main
 
 ## Author
 
-- Kaua Santos - 
+- Kaua Santos  
